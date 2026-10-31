@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Physical AI · Edge AI · AIoT Platforms</b><br>
-  Tech Lead &amp; Solutions Architect — I build systems that connect the physical and digital worlds.
+  Forward Deployed Engineer &amp; Solutions Architect — I build systems that connect the physical and digital worlds.
 </p>
 
 <p align="center">
@@ -16,10 +16,11 @@
 
 ### About
 
-I'm a Tech Lead, Solutions Architect and Practice Lead at **Globant's Physical AI Studio**, where
-I lead the Edge AI and Platforms practices. For 7+ years I've taken production systems end to
-end for global brands across aviation, smart venues, sports &amp; parks entertainment, utilities
-and manufacturing.
+I'm a **Forward Deployed Engineer**, Tech Lead and Solutions Architect at **Globant's Physical AI
+Studio**, where I lead the Edge AI and Platforms practices. For 8+ years I've taken production
+systems end to end for global brands across aviation, smart venues, sports &amp; parks
+entertainment, utilities and manufacturing, embedding directly with clients from discovery to
+production.
 
 - 🧠 **Agentic AI platforms** — LLM reasoning cores that fuse computer vision, BLE beacons and
   enterprise subsystems into autonomous decision-making for real-time operations
