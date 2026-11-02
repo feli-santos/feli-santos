@@ -74,6 +74,7 @@ production.
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white">
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
@@ -97,6 +98,6 @@ production.
 ---
 
 <p align="center">
-  <i>Based in Belo Horizonte, Brazil · Working remotely · Open to global mobility</i><br>
+  <i>Based in Brazil · Working remotely · Open to global mobility</i><br>
   <i>🇧🇷 Portuguese · 🇺🇸 English · 🇪🇸 Spanish</i>
 </p>
