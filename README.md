@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/feli-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/feli-santos/resume"><img src="https://img.shields.io/badge/Resume-0E6E6A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7370791"><img src="https://img.shields.io/badge/Research-B31B1B?style=flat-square&logo=googlescholar&logoColor=white" alt="Research"></a>
+  <a href="https://github.com/feli-santos/resume"><img src="https://img.shields.io/badge/Resume-111111?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7370791"><img src="https://img.shields.io/badge/Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Research"></a>
   <a href="mailto:felipeaugustodosantos@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -54,7 +54,7 @@ production.
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/NVIDIA%20DeepStream-76B900?style=flat-square&logo=nvidia&logoColor=white">
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white">
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/LLMs%20%26%20Agents-412991?style=flat-square&logo=openai&logoColor=white">
 </p>
@@ -64,7 +64,7 @@ production.
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
