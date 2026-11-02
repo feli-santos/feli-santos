@@ -56,13 +56,13 @@ production.
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white">
   <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/LLMs%20%26%20Agents-412991?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/LLMs%20%26%20Agents-412991?style=flat-square&logo=openai&logoColor=white">
 </p>
 
 **Cloud &amp; Platform**
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=black">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
